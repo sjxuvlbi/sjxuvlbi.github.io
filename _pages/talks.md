@@ -7,9 +7,9 @@ author_profile: true
 
 **Invited talks**
 
-9\. Aug 2022 - Invited Talk: "Collimation and Acceleration of AGN jets", <br />
-Focus Meeting 1 "Physics of Relativistic Jets on All Scales" at the IAUGA 2022, <br />
-BEXCO, Busan, Republic of Korea, [website](http://ga2022-fm1.kasi.re.kr/?page_id=26)
+1\. Sep 2022 - Invited Talk: "High Frequency Geodetic VLBI with EAVN and KVN", <br />
+The 2nd Malaysian VLBI Workshop, <br />
+Kuala Lumpur, Malaysia, [website](https://sites.google.com/view/2myvlbiworkshop/program)
 
 **Contributed Talks**
 
