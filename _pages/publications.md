@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQieQ78T6Gt9lTdfYtNQA).
 
 **First Author Papers**
@@ -31,8 +30,6 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQ
 1\. The K Band Geodesy with the East Asian VLBI Network <br />
 **Xu, S.** ;  Jike, T. ;  Jung, T. ; et al., 2021, EVGA, 25, 71 <br />
 [ADS](https://ui.adsabs.harvard.edu/abs/2021evga.conf...71X/abstract) 
-
-
 
 **Co-Author Papers**
 
