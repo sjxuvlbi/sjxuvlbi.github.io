@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuangjing Xu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shuangjing Xu"
 description              : &description "This is a Shuangjing's webpage"
