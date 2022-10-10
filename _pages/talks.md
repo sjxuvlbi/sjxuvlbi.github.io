@@ -13,9 +13,9 @@ BEXCO, Busan, Republic of Korea, [website](http://ga2022-fm1.kasi.re.kr/?page_id
 
 **Contributed Talks**
 
-18\. Sep 2022 - Contributed Talk: "Collimation and Acceleration of AGN jets", <br />
-2nd Malaysia VLBI Workshop, <br />
-Universiti Malaya, Kuala Lumpur, Malaysia, [website](https://sites.google.com/view/2myvlbiworkshop/program?authuser=0)
+4\. Aug 2022 - Contributed Talk: "The Astrometric Animation of Water Masers towards the Mira Variable BX Cam", <br />
+Focus Meeting 7 "Astrometry for 21st Century Astronomy" at the IAUGA 2022, <br />
+BEXCO, Busan, Republic of Korea, [website](https://www.busan2021fm7.org/programme/)
 
 17\. Mar 2021 - Contributed Talk: "GPCAL: a new calibration pipeline for instrumental polarization in VLBI data", <br />
 13th East Asian VLBI Workshop 2021, <br />
