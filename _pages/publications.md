@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQieQ78T6Gt9lTdfYtNQA).
+You can find my papers on [ADS](https://ui.adsabs.harvard.edu/public-libraries/rtQieQ78T6Gt9lTdfYtNQA).
 
 **First Author Papers**
 
