@@ -10,20 +10,20 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQ
 
 **First Author Papers**
 
-4\. The Long-Term Centimeter Variability of Active Galactic Nuclei: a New Relation between Variability Timescale and Accretion Rate <br />
-**Park, J.**; Trippe, S. 2017, ApJ, 834, 157 <br />
+4\. A Milliarcsecond Accurate Position for Sagittarius A* <br />
+**Xu, S.**; Zhang, B., Reid, M.~J., et al., 2022, ApJ, (Accepted) <br />
 [ADS](https://ui.adsabs.harvard.edu/abs/2017ApJ...834..157P/abstract) | [arXiv](https://arxiv.org/abs/1611.04729)
 
-3\. No asymmetric outflows from Sagittarius A* during the pericenter passage of the gas cloud G2 <br />
-**Park, J.**; Trippe, S.; Krichbaum, T. P.; et al. 2015, A&A, 576, L16 <br />
-[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...576L..16P/abstract) | [arXiv](https://arxiv.org/abs/1503.08982)
+3\. The Astrometric Animation of Water Masers towards the Mira Variable BX Cam <br />
+**Xu, S.**, Imai, H., Yun, Y., et al., 2022, ApJ, (Accepted) <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv221002812X/abstract) | [arXiv](https://arxiv.org/abs/2210.02812)
 
 2\. Comparison of Gaia DR2 Parallaxes of Stars with VLBI Astrometry <br />
-**Xu, S.**; Zhang, B., Reid, M.~J., et al., ApJ, 875, 114 <br />
+**Xu, S.**; Zhang, B., Reid, M.~J., et al., 2019, ApJ, 875, 114 <br />
 [ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...875..114X/abstract) | [arXiv](https://arxiv.org/abs/1903.04105)
 
 1\. The Parallax of the Red Hypergiant VX Sgr with Accurate Tropospheric Delay Calibration <br />
-**Xu, S.**; Zhang, B., Reid, M.~J., et al., ApJ, 859, 14 <br />
+**Xu, S.**; Zhang, B., Reid, M.~J., et al., 2018, ApJ, 859, 14 <br />
 [ADS](https://ui.adsabs.harvard.edu/abs/2018ApJ...859...14X/abstract) | [arXiv](https://arxiv.org/abs/1804.00894)
 
 
