@@ -17,15 +17,15 @@ BEXCO, Busan, Republic of Korea, [website](http://ga2022-fm1.kasi.re.kr/?page_id
 Focus Meeting 7 "Astrometry for 21st Century Astronomy" at the IAUGA 2022, <br />
 BEXCO, Busan, Republic of Korea, [website](https://www.busan2021fm7.org/programme/)
 
-17\. Mar 2021 - Contributed Talk: "GPCAL: a new calibration pipeline for instrumental polarization in VLBI data", <br />
+3\. Mar 2021 - Contributed Talk: "The Progress of K band Geodesy with EAVN", <br />
 13th East Asian VLBI Workshop 2021, <br />
 Chiang Mai, Thailand, [website](https://indico.narit.or.th/event/152/page/267-program)
 
-11\. Sep 2019 - Contributed Talk: "A new strategy for polarization calibration of VLBI data and an improved view of linear polarization of AGN jets at millimeter wavelengths", <br />
+2\. Sep 2019 - Contributed Talk: "Verifying Gaia Astrometric Results of Stars with VLBI Astrometry", <br />
 12th East Asian VLBI Workshop, <br />
 Ibaraki University, Mito, Ibaraki, Japan, [website](http://vlbi.sci.ibaraki.ac.jp/eavw19/program.html)
 
-9\. Sep 2018 - Contributed Talk: "Detection of a Moving Spine-Sheath Jet Structure after a VHE γ-ray Flare in PKS 1510-089 in 2015", <br />
+1\. Sep 2018 - Contributed Talk: "Radio Astrometry in the Gaia Era", <br />
 East Asian VLBI Workshop 2018, <br />
 YongPyong Resort, PyeongChang, Korea, [website](https://radio.kasi.re.kr/event/event_eavn.php?d=eavn2018&m=menu&p=program)
 
