@@ -5,12 +5,40 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQieQ78T6Gt9lTdfYtNQA).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**First Author Papers**
+
+4\. The Long-Term Centimeter Variability of Active Galactic Nuclei: a New Relation between Variability Timescale and Accretion Rate <br />
+**Park, J.**; Trippe, S. 2017, ApJ, 834, 157 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2017ApJ...834..157P/abstract) | [arXiv](https://arxiv.org/abs/1611.04729)
+
+3\. No asymmetric outflows from Sagittarius A* during the pericenter passage of the gas cloud G2 <br />
+**Park, J.**; Trippe, S.; Krichbaum, T. P.; et al. 2015, A&A, 576, L16 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...576L..16P/abstract) | [arXiv](https://arxiv.org/abs/1503.08982)
+
+2\. Radio Variability and Random Walk Noise Properties of Four Blazars <br />
+**Park, J.**; Trippe, S. 2014, ApJ, 785, 76 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2014ApJ...785...76P/abstract) | [arXiv](https://arxiv.org/abs/1402.6385)
+
+1\. Multiple Emission States in Active Galactic Nuclei <br />
+**Park, J.**; Trippe, S. 2012, JKAS, 45, 147 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2012JKAS...45..147P/abstract) | [arXiv](https://arxiv.org/abs/1210.8248)
+
+
+
+**Co-Author Papers**
+
+
+3\. PAGaN II: The Evolution of AGN Jets on Sub-Parsec Scales <br />
+Oh, J.; Trippe, S.; Kang, S.; ...; **Park, J.**; et al. 2015, JKAS, 48, 299 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2015JKAS...48..299O/abstract) | [arXiv](https://arxiv.org/abs/1510.08153)
+
+2\. PAGaN I: Multi-Frequency Polarimetry of AGN Jets with KVN <br />
+Kim, J.; Trippe, S.; Sohn, B. W.; ...; **Park, J.**; et al. 2015, JKAS, 48, 285 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2015JKAS...48..285K/abstract) | [arXiv](https://arxiv.org/abs/1510.08150)
+
+1\. Interferometric Monitoring of gamma-ray Bright Active Galactic Nuclei II: Frequency Phase Transfer <br />
+Algaba, J.-C.; Zhao, G.-Y.; Lee, S.-S.; ...; **Park, J.**; et al. 2015, JKAS, 48, 237 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2015JKAS...48..237A/abstract) | [arXiv](https://arxiv.org/abs/1510.05817)
