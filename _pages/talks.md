@@ -9,7 +9,7 @@ author_profile: true
 
 1\. Sep 2022 - Invited Talk: "High Frequency Geodetic VLBI with EAVN and KVN", <br />
 The 2nd Malaysian VLBI Workshop, <br />
-Kuala Lumpur, Malaysia, [website](https://sites.google.com/view/2myvlbiworkshop/program)
+Universiti Malaya,Kuala Lumpur, Malaysia, [website](https://sites.google.com/view/2myvlbiworkshop/program)
 
 **Contributed Talks**
 
