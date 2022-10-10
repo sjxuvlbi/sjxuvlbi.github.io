@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shuangjing Xu"
 title_separator          : "-"
 name                     : &name "Shuangjing Xu"
-description              : &description "PostDoc in Korea Astronomy and Space Science Institute (KASI)"
+description              : &description "This is a Shuangjing's webpage"
 url                      : https://sjxuvlbi.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjxuvlbi/sjxuvlbi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shuangjing Xu"
   avatar           : "profile.png"
-  bio              : "PostDoc in Korea Astronomy and Space Science Institute (KASI)"
+  bio              : "Radio Astronomer specializing in VLBI Astrometry and Geodesy. PostDoc Researcher at Korea Astronomy and Space Science Institute (KASI)"
   location         : "Daejeon, South Korea"
   employer         :
   googlescholar    : 
