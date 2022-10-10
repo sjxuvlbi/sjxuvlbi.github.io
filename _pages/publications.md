@@ -30,15 +30,10 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQ
 
 **Co-Author Papers**
 
+2\. A Very Long Baseline Array Trigonometric Parallax for RR Aql and the Mira Period-Luminosity Relation <br />
+Sun, Y.;  Zhang, B.; Reid, M.~J.;  **Xu, S.**;  et al., 2022, ApJ, 931, 74 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...74S/abstract) | [arXiv](https://arxiv.org/abs/2205.11922)
 
-3\. PAGaN II: The Evolution of AGN Jets on Sub-Parsec Scales <br />
-Oh, J.; Trippe, S.; Kang, S.; ...; **Park, J.**; et al. 2015, JKAS, 48, 299 <br />
-[ADS](https://ui.adsabs.harvard.edu/abs/2015JKAS...48..299O/abstract) | [arXiv](https://arxiv.org/abs/1510.08153)
-
-2\. PAGaN I: Multi-Frequency Polarimetry of AGN Jets with KVN <br />
-Kim, J.; Trippe, S.; Sohn, B. W.; ...; **Park, J.**; et al. 2015, JKAS, 48, 285 <br />
-[ADS](https://ui.adsabs.harvard.edu/abs/2015JKAS...48..285K/abstract) | [arXiv](https://arxiv.org/abs/1510.08150)
-
-1\. Interferometric Monitoring of gamma-ray Bright Active Galactic Nuclei II: Frequency Phase Transfer <br />
-Algaba, J.-C.; Zhao, G.-Y.; Lee, S.-S.; ...; **Park, J.**; et al. 2015, JKAS, 48, 237 <br />
-[ADS](https://ui.adsabs.harvard.edu/abs/2015JKAS...48..237A/abstract) | [arXiv](https://arxiv.org/abs/1510.05817)
+1\. The NTSC VLBI System and its application in UT1 measurement  <br />
+Yao, D.; Wu, Y.;  Zhang, B.;  Sun, J.;  Sun, Y.;  **Xu, S.**; et al. 2020, RAA, 20, 093 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2020RAA....20...93Y/abstract) | [arXiv](https://arxiv.org/abs/2002.07404)
