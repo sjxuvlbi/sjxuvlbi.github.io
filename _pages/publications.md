@@ -26,6 +26,12 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQ
 **Xu, S.**; Zhang, B., Reid, M.~J., et al., 2018, ApJ, 859, 14 <br />
 [ADS](https://ui.adsabs.harvard.edu/abs/2018ApJ...859...14X/abstract) | [arXiv](https://arxiv.org/abs/1804.00894)
 
+**First Author Proceedings**
+
+1\. The K Band Geodesy with the East Asian VLBI Network <br />
+**Xu, S.** ;  Jike, T. ;  Jung, T. ; et al., 2021, EVGA, 25, 71 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2021evga.conf...71X/abstract) 
+
 
 
 **Co-Author Papers**
