@@ -22,9 +22,9 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQ
 **Park, J.**; Trippe, S. 2014, ApJ, 785, 76 <br />
 [ADS](https://ui.adsabs.harvard.edu/abs/2014ApJ...785...76P/abstract) | [arXiv](https://arxiv.org/abs/1402.6385)
 
-1\. Multiple Emission States in Active Galactic Nuclei <br />
-**Park, J.**; Trippe, S. 2012, JKAS, 45, 147 <br />
-[ADS](https://ui.adsabs.harvard.edu/abs/2012JKAS...45..147P/abstract) | [arXiv](https://arxiv.org/abs/1210.8248)
+1\. The Parallax of the Red Hypergiant VX Sgr with Accurate Tropospheric Delay Calibration <br />
+**Xu, S.**; Zhang, B., Reid, M.~J., et al., ApJ, 859, 14 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2018ApJ...859...14X/abstract) | [arXiv](https://arxiv.org/abs/1804.00894)
 
 
 
