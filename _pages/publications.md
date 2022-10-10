@@ -11,7 +11,7 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQ
 
 4\. A Milliarcsecond Accurate Position for Sagittarius A* <br />
 **Xu, S.**; Zhang, B., Reid, M.~J., et al., 2022, ApJ, (Accepted) <br />
-[ADS]() | [arXiv](https://arxiv.org/abs/2210.03390)
+[ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv221003390X/abstract) | [arXiv](https://arxiv.org/abs/2210.03390)
 
 3\. The Astrometric Animation of Water Masers towards the Mira Variable BX Cam <br />
 **Xu, S.**, Imai, H., Yun, Y., et al., 2022, ApJ, (Accepted) <br />
