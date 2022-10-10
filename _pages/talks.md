@@ -7,9 +7,17 @@ author_profile: true
 
 **Invited talks**
 
-1\. Sep 2022 - Invited Talk: "High Frequency Geodetic VLBI with EAVN and KVN", <br />
+3\. Oct 2022 - Invited Talk: "Radio Star Astrometry", <br />
+ACAMAR Themed Workshop on VLBI 2022, <br />
+Online, [website](https://acamar-vlbi-2022.casconf.cn)
+
+2\. Sep 2022 - Invited Talk: "High Frequency Geodetic VLBI with EAVN and KVN", <br />
 The 2nd Malaysian VLBI Workshop, <br />
 Universiti Malaya,Kuala Lumpur, Malaysia, [website](https://sites.google.com/view/2myvlbiworkshop/program)
+
+1\. Jun 2021 - Invited Talk: "EAVN K-band Geodesy", <br />
+Optical Clock Comparison using VLBI, <br />
+Online, [website](https://sites.google.com/view/occ-vlbi)
 
 **Contributed Talks**
 
