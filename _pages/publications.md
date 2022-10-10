@@ -18,9 +18,9 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/user/libraries/rtQ
 **Park, J.**; Trippe, S.; Krichbaum, T. P.; et al. 2015, A&A, 576, L16 <br />
 [ADS](https://ui.adsabs.harvard.edu/abs/2015A%26A...576L..16P/abstract) | [arXiv](https://arxiv.org/abs/1503.08982)
 
-2\. Radio Variability and Random Walk Noise Properties of Four Blazars <br />
-**Park, J.**; Trippe, S. 2014, ApJ, 785, 76 <br />
-[ADS](https://ui.adsabs.harvard.edu/abs/2014ApJ...785...76P/abstract) | [arXiv](https://arxiv.org/abs/1402.6385)
+2\. Comparison of Gaia DR2 Parallaxes of Stars with VLBI Astrometry <br />
+**Xu, S.**; Zhang, B., Reid, M.~J., et al., ApJ, 875, 114 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...875..114X/abstract) | [arXiv](https://arxiv.org/abs/1903.04105)
 
 1\. The Parallax of the Red Hypergiant VX Sgr with Accurate Tropospheric Delay Calibration <br />
 **Xu, S.**; Zhang, B., Reid, M.~J., et al., ApJ, 859, 14 <br />
