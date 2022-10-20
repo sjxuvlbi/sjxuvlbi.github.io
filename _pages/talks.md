@@ -7,7 +7,7 @@ author_profile: true
 
 **Invited talks**
 
-3\. Oct 2022 - Invited Talk: "Radio Star Astrometry", <br />
+3\. Oct 2022 - Invited Talk: "Validate Gaia Stellar Reference Frame via VLBI Astrometry of Radio Stars", <br />
 ACAMAR Themed Workshop on VLBI 2022, <br />
 Online, [website](https://acamar-vlbi-2022.casconf.cn)
 
