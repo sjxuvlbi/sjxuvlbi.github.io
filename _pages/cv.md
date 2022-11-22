@@ -11,5 +11,6 @@ redirect_from:
 
 
 
-A PDF of my CV can be downloaded [here](http://sjxuvlbi.github.io/files/CV_S.Xu.pdf).
+A PDF of my CV can be found [here](http://sjxuvlbi.github.io/files/CV_S.Xu.pdf).
 
+A PDF of my Research Interests can be found [here](http://sjxuvlbi.github.io/files/Research_S.Xu.pdf).
