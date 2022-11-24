@@ -10,8 +10,8 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/public-libraries/r
 **First Author Papers**
 
 4\. A Milliarcsecond Accurate Position for Sagittarius A* <br />
-**Xu, S.**; Zhang, B., Reid, M. J., et al., 2022, ApJ, (Accepted) <br />
-[ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv221003390X/abstract) | [arXiv](https://arxiv.org/abs/2210.03390)
+**Xu, S.**; Zhang, B., Reid, M. J., et al., 2022, ApJ, 940,  15 <br />
+[ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...940...15X/abstract) | [arXiv](https://arxiv.org/abs/2210.03390)
 
 3\. The Astrometric Animation of Water Masers towards the Mira Variable BX Cam <br />
 **Xu, S.**, Imai, H., Yun, Y., et al., 2022, ApJ, (Accepted) <br />
@@ -32,6 +32,9 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/public-libraries/r
 [ADS](https://ui.adsabs.harvard.edu/abs/2021evga.conf...71X/abstract) 
 
 **Co-Author Papers**
+3\. EAVN Astrometry toward the Extreme Outer Galaxy: Kinematic distance with the proper motion of G034.84-00.95 <br />
+Sakai, N.;  Zhang, B.; **Xu, S.**;  et al., 2022, PASJ, (Accepted) <br />
+[arXiv](https://arxiv.org/abs/2211.12534)
 
 2\. A Very Long Baseline Array Trigonometric Parallax for RR Aql and the Mira Period-Luminosity Relation <br />
 Sun, Y.;  Zhang, B.; Reid, M. J.;  **Xu, S.**;  et al., 2022, ApJ, 931, 74 <br />
